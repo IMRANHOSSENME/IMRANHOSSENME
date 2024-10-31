@@ -3,8 +3,19 @@
 Welcome to my GitHub profile! I'm a Computer Engineering student, passionate about AI development and creating innovative solutions. Here, you can find my projects, skills, and some interesting information about me.
 
 ## 📈 GitHub Stats
-![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=imranhossenme&show_icons=true&theme=radical)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenme&show_icons=true&theme=radical)
+## 📈 GitHub Stats
+
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=imranhossenme&show_icons=true&theme=radical" width="400" height="200" alt="Your GitHub Stats" />
+    </td>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenme&layout=compact&show_icons=true&theme=radical" width="400" height="150" alt="Top Languages" />
+    </td>
+  </tr>
+</table>
+
 
 ## 🌱 About Me
 - 🔭 I’m currently working on: An attendance system using RFID and fingerprint technology.
