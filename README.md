@@ -5,7 +5,7 @@ Welcome to my GitHub profile! I'm a Computer Engineering student, passionate abo
 ## 📈 GitHub Stats
 <div style="display: flex; justify-content: space-between; width: 800px;">
   <img src="https://github-readme-stats.vercel.app/api?username=imranhossenme&show_icons=true&theme=radical" width="400" height="200" alt="Your GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenme&layout=compact&show_icons=true&theme=radical" width="350" height="150" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imranhossenme&layout=compact&show_icons=true&theme=radical" width="350" height="200" alt="Top Languages" />
 </div>
 
 
